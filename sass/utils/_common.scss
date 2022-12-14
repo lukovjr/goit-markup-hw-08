@@ -1,0 +1,20 @@
+a {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
+
+.address-info {
+    font-style: normal;
+}
+
+.link.current {
+    color: var(--main-blue);
+}
